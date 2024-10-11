@@ -1,0 +1,7 @@
+__pycache__
+*.so
+build
+.coverage_*
+*.egg-info
+*~
+*.DS_Store*
